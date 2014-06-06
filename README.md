@@ -1,4 +1,4 @@
 Metadata101 Documentation
 =========================
 
-[Documentation](../../wiki)
+[How to describe your metadata schema in metadata101](../../wiki)
